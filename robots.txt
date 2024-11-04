@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://upahaidi.github.io/Hdc/sitemap_index.txt
+Sitemap: https://upahaidi.github.io/PcG/sitemap_index.txt
+Sitemap: https://upahaidi.github.io/wul/sitemap_index.txt
+Sitemap: https://upahaidi.github.io/xuN/sitemap_index.txt
